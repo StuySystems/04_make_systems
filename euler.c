@@ -4,6 +4,7 @@
  */
 
 #include <stdio.h>
+#include "euler.h"
 
 int euler_01()
 {
